@@ -67,7 +67,7 @@ with open(filename,'w') as csvfile:
     a = 1
     for row in rows:
         csvwriter.writerow(row)
-        print("added"+str(a)+"qeustions")
+        print("\nadded "+str(a)+" qeustions\n")
         a += 1
 
 print("Done :)")
