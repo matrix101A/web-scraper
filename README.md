@@ -1,6 +1,6 @@
 # web-scraper
 
-This project is part of a bigger project, namely the ** "Interview Buddy" **
+This project is part of a bigger project, namely the **"Interview Buddy"**
 
 This project scrapes off the *puzzles* section from geeksforgeeks section of interview preparation
 
